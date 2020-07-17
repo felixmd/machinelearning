@@ -1,2 +1,2 @@
 ## machinelearning
-Container project for multiple machine learning scripts.
+Container project for machine learning scripts.
